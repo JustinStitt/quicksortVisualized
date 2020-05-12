@@ -8,3 +8,11 @@ works on data sets of any length N > 0
 
 ![](quickSortVisuGIF1.gif)
 ![](quickSortVisuGIF2.gif)
+
+
+with help from:
+https://en.wikipedia.org/wiki/Quicksort
+
+Representation of the Algorithm:
+
+![](Sorting_quicksort_anim.gif)
